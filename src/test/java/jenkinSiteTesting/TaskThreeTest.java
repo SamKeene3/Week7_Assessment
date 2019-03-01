@@ -1,4 +1,4 @@
-package tests;
+package jenkinSiteTesting;
 
 import org.junit.runner.RunWith;
 

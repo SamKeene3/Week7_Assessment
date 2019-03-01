@@ -1,4 +1,4 @@
-package tests;
+package jenkinSiteTesting;
 
 public class Constants {
 

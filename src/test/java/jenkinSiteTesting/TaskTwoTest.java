@@ -1,4 +1,4 @@
-package tests;
+package jenkinSiteTesting;
 
 import static org.junit.Assert.assertEquals;
 
